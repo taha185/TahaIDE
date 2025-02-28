@@ -1,0 +1,44 @@
+TLicense - Taha License
+Version 1.0, October 2023
+
+Copyright (c) 2023 Taha185
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. Attribution:
+   - The above copyright notice and this permission notice shall be included
+     in all copies or substantial portions of the Software.
+   - Any modified versions of the Software must prominently display the
+     following notice: "This software is based on TAHA IDE by Taha185."
+
+2. Non-Misuse:
+   - The Software shall not be used for any illegal, unethical, or harmful
+     purposes, including but not limited to:
+     - Violating the rights of others.
+     - Causing harm to individuals, organizations, or systems.
+     - Distributing malware or malicious software.
+
+3. No Warranty:
+   - The Software is provided "as is," without warranty of any kind, express
+     or implied, including but not limited to the warranties of merchantability,
+     fitness for a particular purpose, and noninfringement. In no event shall
+     the authors or copyright holders be liable for any claim, damages, or
+     other liability, whether in an action of contract, tort, or otherwise,
+     arising from, out of, or in connection with the Software or the use or
+     other dealings in the Software.
+
+4. Redistribution:
+   - If you distribute the Software or any derivative works, you must provide
+     a copy of this license and ensure that all recipients are aware of its
+     terms.
+
+By using, modifying, or distributing the Software, you agree to the terms of
+this license. If you do not agree to these terms, you are not permitted to
+use, modify, or distribute the Software.
+
+For inquiries or custom licensing, contact: taha185@example.com
