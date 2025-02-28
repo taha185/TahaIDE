@@ -1,6 +1,6 @@
 <div align="center">
-  <p <em>> TAHA IDE -for everybody -you can suggest some improvement </em>
-  <a href="https://gmail.com/taha185185">
+  <p <em> TAHA IDE -for everybody -you can suggest some improvement -> </em>
+  <a href="https://mail.google.com/mail/mu/mp/453/#tl/priority/%5Esmartlabel_personal">
     here</a>
 </p>
 </div>
