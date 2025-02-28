@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/logo.png" alt="TAHA IDE Logo" width="150">
+  <p <em>> TAHA IDE -for everybody -you can suggest some improvement </em>
+  <a href="https://gmail.com/taha185">
+    here</a>
+</p>
 </div>
 
 # TAHA IDE
