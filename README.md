@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.ico" alt="Taha185 IDE Logo" width="100">
+  <img src="assets/TAHAIDE.ico" alt="Taha185 IDE Logo" width="400" height="200">
 </div>
 # TAHA IDE 
 Taha185 IDE is a lightweight, terminal-based Integrated Development Environment (IDE) for Windows, built in C. It features file management, a simple text editor, and the ability to compile and run C/C++ programs using GCC/G++. With a colorful interface, customizable prompt, and fun features like an inspirational quote display, it’s perfect for quick coding tasks. Just run, code, and compile—all in one place!
