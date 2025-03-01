@@ -1,12 +1,4 @@
-<div align="center">
-  <p <em> TAHA IDE -for everybody -you can suggest some improvement -> </em>
-  <a href="https://mail.google.com/mail/mu/mp/453/#tl/priority/%5Esmartlabel_personal">
-    here</a>
-</p>
-</div>
-
-# TAHA IDE
-
+# taha ide
 **TAHA IDE** is a lightweight, terminal-based C/C++ Integrated Development Environment (IDE) designed for developers who love simplicity and efficiency. With features like a built-in text editor, code compilation, and file management, TAHA IDE provides a seamless coding experience right from your terminal.
 
 ---
@@ -37,3 +29,4 @@
    ```bash
    git clone https://github.com/taha185/taha-ide.git
    cd taha-ide
+# Contact me here taha185185@gmail.com 
